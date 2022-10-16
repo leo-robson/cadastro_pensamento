@@ -27,9 +27,9 @@ npm start
 
 * Github: [@leo-robson](https://github.com/leo-robson)
 * LinkedIn: [@Léo Robson](https://www.linkedin.com/in/leo-robson-b75984147/)
-<div allign="center">
-Readme em Construção 🚧
-</div>
+
+<h3 align="center">Readme em Construção 🚧</h1>
+
 
 ## Show your support
 
